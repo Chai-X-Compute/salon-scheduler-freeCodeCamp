@@ -25,6 +25,9 @@ psql --username=freecodecamp --dbname=postgres < salon.sql
 
 
 
+💬 Example Interaction
+
+```bash
 
 ~~~~~ MY SALON ~~~~~
 
@@ -44,3 +47,5 @@ What time would you like your cut, Chaitanya?
 > 2pm
 
 I have put you down for a cut at 2pm, Chaitanya.
+
+```
